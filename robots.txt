@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobincuenden.github.io/cn-neoball-com/sitemap.xml
